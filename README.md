@@ -1,13 +1,14 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekdmskwon)](https://hits.seeyoufarm.com)                    
 
+<div align=center>
+  
 ### About me <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">😆</font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬</font></font>
 Hi, I'm Daeun Kwon, studying for development.
 
-### Learning stack <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✏</font></font>
+### Learning <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✏</font></font>
 Platforms & Languages <br><br>
 <img src="https://img.shields.io/badge/python-007396?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br>
-
+</div>
                  
 <!--
 **ekdmskwon/ekdmskwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
