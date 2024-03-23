@@ -1,6 +1,6 @@
 <div align=center>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=300&section=header&text=Daeun%20Kwon&fontSize=60&fontColor=364765&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=250&section=header&text=Daeun%20Kwon&fontSize=60&fontColor=364765&animation=fadeIn&fontAlignY=40" />
 
 <div align=center>
   
