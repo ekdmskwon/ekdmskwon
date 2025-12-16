@@ -1,11 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=fffacd&height=140&fontSize=30&fontColor=000000   ) 
+<!--![header](https://capsule-render.vercel.app/api?type=Rounded&color=fffacd&height=140&section=header&text=KWON%20DAEUN&fontSize=30&fontColor=000000   ) -->
 
 
 <!-- ## ⭐Baekjoon stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dadax0715)](https://solved.ac/dadax0715/)
-&section=header&text=KWON%20DAEUN
+
 -->
 
 # 🚀 Tech Stack & Studying
