@@ -24,4 +24,5 @@
 # 📬 Contacts
 [![dadax0715@gmail.com](https://img.shields.io/badge/dadax0715@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dadax0715@gmail.com)](mailto:dadax0715@gmail.com)
 [![GitHub Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/ekdmskwon)](https://github.com/ekdmskwon)
+[![Tistory Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=tistory&link=https://dada2un.tistory.com/)](https://dada2un.tistory.com/)
 </div>
